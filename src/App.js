@@ -66,6 +66,7 @@ function App({dataAttributes}) {
           JavaScriptPros.com
         </a>
       </p>
+      <p>Hello there from app</p>
     </div>
   );
 }
